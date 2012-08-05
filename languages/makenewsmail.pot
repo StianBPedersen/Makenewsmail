@@ -1,0 +1,168 @@
+# Copyright 2011 Makenewsmail
+msgid ""
+msgstr ""
+"Project-Id-Version: Makenewsmail 1.0\n"
+"Report-Msgid-Bugs-To: POT-Creation-Date: 2012-04-22\n"
+"Last-Translator: \n"
+"Language-Team: Makenewsmail\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_plugin.php:144
+msgid "<p><strong>Success</strong></p>"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:196
+msgid "Address"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:164
+msgid "Black"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:165
+msgid "Blue"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:198
+msgid "City"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:73
+msgid "Description"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:194
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_plugin.php:144
+msgid "Go to widgets til select your mailinglist"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:167
+msgid "Grey"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:163
+msgid "I will do it myself!"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:107
+msgid "Include address"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:134
+msgid "Include city"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:93
+msgid "Include name"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:148
+msgid "Include phone"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:120
+msgid "Include zipcode"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:42
+msgid "Mailinglist"
+msgstr ""
+
+#. Text in function
+#: Makenewsmail/makenewsmail_widget.php:205
+msgid "Makenewsmail Subscriptionform"
+msgstr ""
+
+#. Text in function
+#: Makenewsmail/makenewsmail_plugin.php:144
+msgid "Makenewsmail settings"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:195
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:199
+msgid "Phone"
+msgstr ""
+
+#. Text in function
+#: Makenewsmail/makenewsmail_plugin.php:137
+msgid "Save"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:44
+msgid "Select mailinglist"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:160
+msgid "Select skin"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:151
+msgid "Submitbutton"
+msgstr ""
+
+#. Text in function
+#: Makenewsmail/makenewsmail_widget.php:205
+msgid "Subscriptionform for your mailingslists"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:65
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:166
+msgid "White"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_widget.php:197
+msgid "Zipcode"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_plugin.php:144
+msgid "<p><strong>Please enter your email and api-key.</strong></p>"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_plugin.php:144
+msgid "<p><strong>Please enter your email and api-key</strong></p>"
+msgstr ""
+
+#. Text in echo
+#: Makenewsmail/makenewsmail_plugin.php:125
+msgid "Not got an account? <a target=\"_blank\" href=\"http://makenewsmail.com\">Register here</a>"
+msgstr ""
+
